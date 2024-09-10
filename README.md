@@ -1,6 +1,10 @@
 # SteamDeckGyroDSU
 **DSU** (*cemuhook protocol*) server for motion data for **Steam Deck**.
 
+## Fork
+
+This fork was created to trial implementing DS4 support if/when I ever get time.
+
 ## Install/Update
 
 Open this page in the browser in **Steam Deck**'s desktop mode.
